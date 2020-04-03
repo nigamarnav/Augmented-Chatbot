@@ -305,12 +305,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3bf6a15f52e6f5647999b9499ab0c827, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tts_apikey: fY-TzT1fXccoK7SuEhBVaCJCPuMrp3VKWPudZdCkl7uB
-  tts_serviceUrl: https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/fe2327f0-f6bd-483b-991d-6163907d4a38
-  Assistant_apikey: yBxB1t3KUhP6_PI8gzaFy1H-jbpyahwgrJgbUXWXkjXt
-  serviceUrl: https://api.eu-gb.assistant.watson.cloud.ibm.com/instances/4b6c47c9-8d5a-4a9e-bceb-68d34252d041
+  tts_apikey: YOUR API KEY
+  tts_serviceUrl: YOUR SERVICE URL
+  Assistant_apikey: API KEY
+  serviceUrl: SERVICE URL
   versionDate: 2019-05-28
-  assistantId: b47c1b4b-f9c6-4513-b81c-e5be654b6aea
+  assistantId: Assistant ID
   inputSpeech: 
   _testString: 
   inputText: {fileID: 0}
@@ -607,9 +607,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ef0d17b7b4bd4c478ab7a86d6fd0ef6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _serviceUrl: https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/24d9bbc8-98cd-4e53-96aa-f97ea1cac0bc
+  _serviceUrl: YOUR SERVICE URL
   ResultsField: {fileID: 1818643101}
-  _iamApikey: 0fk-YAPhbwZmu3bQRrENHu6PUMgfMxpC2qpS_k28WEK4
+  _iamApikey: API KEY
   _recognizeModel: en-US_BroadbandModel
   bot: {fileID: 223520224}
 --- !u!4 &613126879 stripped
